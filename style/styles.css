@@ -117,11 +117,11 @@ body {
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    color: #f6a623;
+    color: #1abc9c;
 }
 
 .my-link:hover {
-    color: #1abc9c;
+    color: #f6a623;
 }
 
 .about-me {
