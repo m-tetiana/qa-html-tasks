@@ -213,3 +213,49 @@ body {
 .post-image {
     width: 300px;
 }
+
+.about-container {
+    text-align: center;
+    margin: 30px 65px 50px 56px;
+}
+
+.about-image {
+    width: 25px;
+    margin: 15px;
+}
+
+.about-title {
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333333;
+}
+
+.about-text {
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #555555;
+    margin: 30px 0;
+}
+
+.about-table {
+    border-collapse: collapse;
+    border: solid 1px #333333;
+}
+
+.about-table td {
+    border: solid 1px #333333;
+    min-width: 160px;
+    padding: 30px 0;
+}
